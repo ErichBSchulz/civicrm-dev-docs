@@ -13,7 +13,8 @@ language is useful for:
 [GitHub]: https://github.com
 
 Markdown language is mostly consistent across these platforms, but some
-discrepancies do exist and should be noted below.
+discrepancies do exist. The `mkbooks` specific guide for markdown is 
+[here](http://www.mkdocs.org/user-guide/writing-your-docs/#images-and-media).
 
 
 ## Basics
